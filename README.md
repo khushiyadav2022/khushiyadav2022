@@ -1,3 +1,4 @@
+![logo](https://www.pngkey.com/png/detail/23-239701_introduction-to-data-science-data-science-introduction.png)
 <h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
