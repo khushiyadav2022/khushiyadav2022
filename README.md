@@ -1,4 +1,5 @@
-![logo](https://www.pngkey.com/png/detail/23-239701_introduction-to-data-science-data-science-introduction.png)
+<img align="centre" width="1200" src="https://analytics-smart.com/wp-content/uploads/2022/06/Data-Science1-1.gif">
+
 <h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/khushi-yadav-5538a3131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khushi-yadav-5538a3131" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/khushi-yadav-5538a3131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khushi-yadav-5538a3131" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
