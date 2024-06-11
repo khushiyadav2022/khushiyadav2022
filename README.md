@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Analytics and Data Science projects**
 
-- 🌱 I’m currently learning **Advance Python, Tableau, Machine learning and Deep learning**
+- 🌱 I’m currently learning **Advance Python, Tableau, Powe-BI, Machine learning and Deep learning**
 
 - 💬 Ask me about **Data visualization, python, SQL, Machine Learning**
 
